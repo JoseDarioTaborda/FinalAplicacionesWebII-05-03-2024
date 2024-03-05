@@ -15,4 +15,4 @@ app.listen(port, () =>{
 })
 
 app.use('/habitaciones', habitacionesRouter)
-//app.use('/cliente', clienteRouter)
+app.use('/cliente', clienteRouter)
