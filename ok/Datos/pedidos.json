@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "idMesa": 1,
+    "idMozo": 1,
+    "pedido": [
+      {"idProducto": 10, "cantidad": 2}
+    ],
+    "estado": true
+  },
+  {
+    "id": 2,
+    "idMesa": 2,
+    "idMozo": 2,
+    "pedido": [
+      {"idProducto": 5, "cantidad": 1}
+    ],
+    "estado": false
+  },
+  {
+    "id": 3,
+    "idMesa": 3,
+    "idMozo": 3,
+    "pedido": [
+      {"idProducto": 8, "cantidad": 3}
+    ],
+    "estado": true
+  }
+]

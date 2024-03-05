@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Daniel",
+    "sector": "Entrepiso"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "sector": "Arriba"
+  },
+  {
+    "id": 3,
+    "nombre": "Mario",
+    "sector": "Abajo"
+  }
+]
