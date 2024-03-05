@@ -3,7 +3,7 @@ import { readFile, writeFile  } from 'fs/promises'
 
 
 import habitacionesRouter from './Routes/habitaciones.routes.js'
-//import clienteRouter from './Routes/cliente.routes.js'
+import clienteRouter from './Routes/cliente.routes.js'
 const app = express()
 
 const port = 3005
